@@ -1,4 +1,4 @@
-# VMware Private AI Foundation 완벽 가이드
+# VMware Private AI Foundation 가이드 - Part 1
 ## PAIF/PAIS/DLVM 개념 정리 및 AI 앱 개발 워크플로우
 
 > **문서 버전:** 3.1  
