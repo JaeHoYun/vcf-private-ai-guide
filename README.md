@@ -59,4 +59,24 @@ VCF(VMware Cloud Foundation) 기반 Private AI 인프라 구축 및 운영을 �
 
 ---
 
-*이 가이드는 VMware 공식 기술 문서를 기반으로 작성된 비공식 실무 가이드입니다.*
+⚠️ 면책 조항 (Disclaimer)
+
+비공식 문서
+이 가이드는 VCF 공식 기술 문서를 기반으로 작성된 비공식 실무 가이드입니다. Broadcom, NVIDIA 또는 기타 벤더의 공식 입장을 대변하지 않습니다.
+정확성 및 최신성
+
+본 문서의 내용은 작성 시점(2026년 1월) 기준이며, 제품 업데이트에 따라 내용이 달라질 수 있습니다.
+정확성을 위해 노력하였으나, 오류나 누락이 있을 수 있습니다.
+프로덕션 환경 적용 전 반드시 공식 문서를 확인하시기 바랍니다.
+
+책임 한계
+
+본 문서를 참고하여 발생한 직접적, 간접적 손해에 대해 작성자는 책임을 지지 않습니다.
+실제 구축 및 운영은 각 조직의 요구사항과 환경에 맞게 검토 후 진행하시기 바랍니다.
+기술 지원이 필요한 경우 브로드컴 공식 지원 채널을 이용하시기 바랍니다.
+
+상표권 고지
+
+VMware, VMware Cloud Foundation, vSphere, vSAN, NSX, VCF Automation, VCF Operation, Private AI Foundation 등은 Broadcom 의 등록 상표입니다.
+NVIDIA, CUDA, NIM 등은 NVIDIA Corporation의 등록 상표입니다.
+기타 언급된 제품명 및 회사명은 각 소유자의 상표 또는 등록 상표입니다.
