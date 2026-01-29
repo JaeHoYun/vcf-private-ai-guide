@@ -1,4 +1,4 @@
-# VMware Private AI Foundation 완벽 가이드 - Part 3
+# VMware Private AI Foundation 가이드 - Part 3
 ## AI 플레이그라운드 개념 및 역할별 워크플로우 (5-6장)
 
 > **문서 버전:** 3.1 (v3.1 업데이트)  
