@@ -1,6 +1,6 @@
 # VCF 9 Private AI Foundation 가이드
 
-VCF(VMware Cloud Foundation) 기반 Private AI 인프라 구축 및 운영을 위한 실무 가이드입니다.
+VCF(VMware Cloud Foundation) 의 Private AI 인프라 구축 및 운영을 위한 참조 가이드입니다.
 
 ## 📋 개요
 
