@@ -1,4 +1,4 @@
-# VMware Private AI Foundation 완벽 가이드 - Part 2
+# VMware Private AI Foundation 가이드 - Part 2
 ## 아키텍처 개요 및 구축 순서 (3-4장)
 
 > **문서 버전:** 3.1  
