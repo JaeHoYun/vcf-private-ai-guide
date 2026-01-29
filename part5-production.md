@@ -1,4 +1,4 @@
-# VMware Private AI Foundation 완벽 가이드 - Part 5
+# VMware Private AI Foundation 가이드 - Part 5
 ## 프로덕션 아키텍처 (9장)
 
 > **문서 버전:** 3.1 (v3.1 업데이트)  
