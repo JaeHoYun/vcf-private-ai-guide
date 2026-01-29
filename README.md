@@ -1,10 +1,10 @@
-# VMware Private AI Foundation 완벽 가이드
+# VCF 9 Private AI Foundation 가이드
 
 VCF(VMware Cloud Foundation) 기반 Private AI 인프라 구축 및 운영을 위한 실무 가이드입니다.
 
 ## 📋 개요
 
-**대상 독자:** VMware 솔루션 아키텍트, 파트너 엔지니어, 인프라/플랫폼 담당자
+**대상 독자:** VMware 솔루션 아키텍트, 파트너 엔지니어, 인프라/플랫폼 담당자, AI/ML 엔지니어, 데이터 사이언티스트, 개발자
 
 **기반 버전:** VCF 9.0.1, PAIF 9.0, PAIS 2.0.89, DLVM 9.0.1
 
@@ -45,7 +45,7 @@ VCF(VMware Cloud Foundation) 기반 Private AI 인프라 구축 및 운영을 �
 이 문서는 자유롭게 활용하실 수 있습니다. **출처 표기**를 부탁드립니다.
 
 ```
-출처: https://github.com/[JaeHoYun]/vcf-private-ai-guide
+출처: https://github.com/JaeHoYun/vcf-private-ai-guide
 ```
 
 ## 🔄 업데이트 이력
