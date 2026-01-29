@@ -18,6 +18,7 @@
 
 전통적인 웹 애플리케이션은 Frontend, Backend, Database로 구성된 **3-Tier 아키텍처**를 따릅니다.
 
+<img width="789" height="440" alt="image" src="https://github.com/user-attachments/assets/0dd45283-7e59-49fa-8fcc-3035831bcd1c" />
 
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                      전통적인 웹 애플리케이션 구조                            │
@@ -48,6 +49,8 @@
 #### 8.1.2 AI 애플리케이션 구조
 
 AI 애플리케이션은 전통적인 3-Tier에 **AI 서비스 계층**이 추가된 구조입니다.
+
+<img width="792" height="627" alt="image" src="https://github.com/user-attachments/assets/f8923ee9-208b-4d8d-a1be-1700b49065c6" />
 
 \`\`\`
 ┌─────────────────────────────────────────────────────────────────────────────┐
